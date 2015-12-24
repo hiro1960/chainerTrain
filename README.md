@@ -32,6 +32,11 @@ sample08.py
 
 sample01.pyを参考に3入力を作成してみた。
 
+sample10
+
+sample07.pyを元に作成。３次元の入力で任意の学習パターンができることを確認。
+やはり、softmax_cross_emtropy()は線形のものしか対応できないようで、mean_squared_error（）だとうまくいく。
+
 
 基本、他人のHPにあった例をそのまま理解した内容をコメントしている。
 
